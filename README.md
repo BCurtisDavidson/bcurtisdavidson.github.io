@@ -1,6 +1,5 @@
 # bcurtisdavidson.github.io
-Welcome to my professional portfolio.
-<img src="[https://github.com/user-attachments/assets/27b91f2d-bf71-43b9-be8b-da51ddb77e46"] width=50% height=50%>
+Welcome to my professional portfolio.![BCD Photo Dec 2024-thumbnail2](https://github.com/user-attachments/assets/f5003dd3-de25-4241-b040-567a29368794)
 
 
 ## About Me
