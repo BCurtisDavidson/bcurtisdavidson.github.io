@@ -4,7 +4,8 @@ Welcome to my professional portfolio.
 ## About Me
 My background uniquely positions me at the intersection of AI governance, human-centered design, and digital inclusion with over 20 years of relevant experience. In my work, I aim to help organizations responsibly develop and deploy emerging technologies in a responsible and equitable way.
 
-## Skills
+## Skills![BCD Photo Dec 2024](https://github.com/user-attachments/assets/27b91f2d-bf71-43b9-be8b-da51ddb77e46)
+
 1. **AI Governance & Ethics** - Certified AI Governance Professional (AIGP) with expertise in developing ethical frameworks and risk assessment methodologies for emerging technologies
 2. **Human-Centered Design** - Extensive experience integrating inclusive design principles into technology development, particularly for accessibility and digital inclusion
 3. **Strategic Consulting** - Proven track record advising public and private sector organizations on digital transformation, accessibility programs, and responsible AI implementation
