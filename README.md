@@ -1,5 +1,5 @@
 # bcurtisdavidson.github.io
-Welcome to my professional portfolio.<img src="https://github.com/user-attachments/assets/f5003dd3-de25-4241-b040-567a29368794" width="50%" height="50%" align="right">
+Welcome to my professional portfolio.<img src="https://github.com/user-attachments/assets/f5003dd3-de25-4241-b040-567a29368794" width="20%" height="20%" align="right">
 
 
 ## About Me
