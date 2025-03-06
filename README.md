@@ -1,7 +1,6 @@
 # bcurtisdavidson.github.io
 Welcome to my professional portfolio.<img src="https://github.com/user-attachments/assets/f5003dd3-de25-4241-b040-567a29368794" width="20%" height="20%" align="right">
 
-
 ## About Me
 My background uniquely positions me at the intersection of AI governance, human-centered design, and digital inclusion with over 20 years of relevant experience. In my work, I aim to help organizations responsibly develop and deploy emerging technologies in a responsible and equitable way.
 
